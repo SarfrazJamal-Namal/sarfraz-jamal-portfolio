@@ -4,7 +4,9 @@ A modern, responsive portfolio website showcasing my work as a Computer Science 
 
 ## 🚀 Live Demo
 
-[View Portfolio](https://your-portfolio-url.vercel.app) *(Update after deployment)*
+**[View Live Portfolio →](https://sarfraz-jamal-portfolio.vercel.app)**
+
+Visit my portfolio to see my projects, experience, and skills!
 
 ## 🛠️ Tech Stack
 
